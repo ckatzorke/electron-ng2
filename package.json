@@ -29,9 +29,9 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/ckatzorke/electron-ng2.git"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/ckatzorke/electron-ng2/issues"
     }
 }
